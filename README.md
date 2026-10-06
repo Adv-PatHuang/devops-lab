@@ -41,3 +41,5 @@ devops-lab/
 └── tests/
 	└── app.test.js
 ```
+
+CI 已啟用。
